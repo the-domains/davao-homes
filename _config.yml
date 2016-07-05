@@ -1,14 +1,14 @@
-layout_spectrum: 0.37174954591318965
-typography_spectrum: 0.42724174354225397
 color:
-  brandStrength: 0.07423197664320469
-  lightness: 0.2816149827558547
-  saturation: 0.2855964661575854
-  rhythmicContrast: 0.14790945942513645
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#FFFFFF'
+    - '#897249'
+    - '#E1DDC0'
+    - '#C4B37B'
+    - '#54401D'
+  brandStrength: 0.512336
+  lightness: 0.281614
+  rhythmicContrast: 0.693257
+  saturation: 0.745888
+layout_spectrum: 0.390625
 name: DAVAO HOMES
+typography_spectrum: 0.444901
